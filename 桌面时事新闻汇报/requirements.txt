@@ -1,0 +1,3 @@
+# 运行依赖（wheels/ 目录已内置对应版本，可离线安装）
+ttkbootstrap>=2.2.0
+pillow>=10

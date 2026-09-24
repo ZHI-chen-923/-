@@ -1,0 +1,6 @@
+pyinstaller-6.9.0-py3-none-win_amd64.whl	https://files.pythonhosted.org/packages/0e/9c/cadf2950d3d23eec3a378ae6eaa564c2a781218657f18f42caeff3732b75/pyinstaller-6.9.0-py3-none-win_amd64.whl
+pyinstaller_hooks_contrib-2026.7-py3-none-any.whl	https://files.pythonhosted.org/packages/0a/67/350377af7b50416344ab8792756d414eef7629c618a73e9a0b13bb1552d9/pyinstaller_hooks_contrib-2026.7-py3-none-any.whl
+altgraph-0.17.5-py2.py3-none-any.whl	https://files.pythonhosted.org/packages/a9/ba/000a1996d4308bc65120167c21241a3b205464a2e0b58deda26ae8ac21d1/altgraph-0.17.5-py2.py3-none-any.whl
+packaging-26.3-py3-none-any.whl	https://files.pythonhosted.org/packages/63/34/ba1c580383c9eada3711951fef0795c80b829a078d72188184bcab9dd527/packaging-26.3-py3-none-any.whl
+pefile-2024.8.26-py3-none-any.whl	https://files.pythonhosted.org/packages/54/16/12b82f791c7f50ddec566873d5bdd245baa1491bac11d15ffb98aecc8f8b/pefile-2024.8.26-py3-none-any.whl
+pywin32_ctypes-0.2.3-py3-none-any.whl	https://files.pythonhosted.org/packages/de/3d/8161f7711c017e01ac9f008dfddd9410dff3674334c233bde66e7ba65bbf/pywin32_ctypes-0.2.3-py3-none-any.whl

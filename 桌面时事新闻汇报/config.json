@@ -1,0 +1,5 @@
+{
+  "theme": "news-light",
+  "refresh_minutes": 30,
+  "always_on_top": false
+}

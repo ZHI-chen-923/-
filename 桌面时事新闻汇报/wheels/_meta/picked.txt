@@ -1,0 +1,5 @@
+ttkbootstrap-2.2.3-py3-none-any.whl	https://files.pythonhosted.org/packages/9e/cd/45eeaabad8d1a162fd300813da4be4669dd7b531ae14b24ee840e99bfbf3/ttkbootstrap-2.2.3-py3-none-any.whl
+pyttsx3-2.99-py3-none-any.whl	https://files.pythonhosted.org/packages/84/14/9fb5842581f0419b5eb85f8c26c1c0c0f4cf6b4d5be638ae3157316a2650/pyttsx3-2.99-py3-none-any.whl
+pywin32-312-cp310-cp310-win_amd64.whl	https://files.pythonhosted.org/packages/33/b1/7afc96d041d982c27bc2df6f853d43f01fd273e3d39d04be3647ddeb533d/pywin32-312-cp310-cp310-win_amd64.whl
+comtypes-1.4.9-py3-none-any.whl	https://files.pythonhosted.org/packages/af/65/8f28210e8c7fa6ee03cb36e9b49aee71fe1f8409e74641206c920c6bd4c8/comtypes-1.4.9-py3-none-any.whl
+pypiwin32-220-cp36-none-win_amd64.whl	https://files.pythonhosted.org/packages/d0/f7/56e35902d32299020cf9136264ca102ff0b03c0555621b469c825bc10d08/pypiwin32-220-cp36-none-win_amd64.whl
